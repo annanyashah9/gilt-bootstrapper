@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.1
+pytest==8.3.4
+xlrd==2.0.1  # reads the DMO's legacy .xls reference-price files
+matplotlib==3.9.4  # for scripts/plot_curve.py only

@@ -1,0 +1,30 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Downloaded gilt data (fetched at runtime, not committed)
+data/cache/
+CLAUDE.md
+CLAUDE.local.md
